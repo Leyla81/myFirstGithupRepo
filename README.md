@@ -1,0 +1,2 @@
+# myFirstGithupRepo
+githup ders deneme
